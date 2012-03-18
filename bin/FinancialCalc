@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'financial_calc'
+puts FinancialCalc.hi(ARGV[0])
+
